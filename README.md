@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Streamlined Data Ingestion with pandas**
 
-- 👯 I’m looking to collaborate on **Footballers Data Analysis**
-
-- 💬 Ask me about **SQL, Tableau, Power BI, Python For Data Analysis**
+- 💬 Ask me about **Data Warehousing, Big Data Analytics, SQL, Python, Tableau, Power BI, ETL**
 
 - 📫 How to reach me **mamounsafwat123@gmail.com**
 
